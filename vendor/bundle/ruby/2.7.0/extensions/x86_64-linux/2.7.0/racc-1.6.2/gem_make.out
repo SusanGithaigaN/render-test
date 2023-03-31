@@ -1,0 +1,20 @@
+current directory: /home/susan/Development/code/Mod4/render/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/susan/Development/code/Mod4/render/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230331-85863-1f00dfn sitelibdir\=./.gem.20230331-85863-1f00dfn clean
+
+current directory: /home/susan/Development/code/Mod4/render/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230331-85863-1f00dfn sitelibdir\=./.gem.20230331-85863-1f00dfn
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/susan/Development/code/Mod4/render/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230331-85863-1f00dfn sitelibdir\=./.gem.20230331-85863-1f00dfn install
+/bin/install -m 0755 cparse.so ./.gem.20230331-85863-1f00dfn/racc
+
+current directory: /home/susan/Development/code/Mod4/render/vendor/bundle/ruby/2.7.0/gems/racc-1.6.2/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230331-85863-1f00dfn sitelibdir\=./.gem.20230331-85863-1f00dfn clean
